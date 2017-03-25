@@ -1,0 +1,43 @@
+title {
+    background-color: greenyellow;
+}
+h1 {
+  margin: 6;
+  padding: 20px 0;    
+  color: #00459F;
+/*   background-color: aqua;*/
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #F73F11;
+  padding: 0 40px 20px 20px;
+  border: 10px solid black;
+}
+html {
+  font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Crimson Text', serif;
+  background-color: #91FC96;
+}
+h1 {
+    font-size: 100;
+    text-align: center;
+}
+
+h2 {
+    font-size: 60;
+    text-align: center;
+}
+p,a {
+    font-size: 40;
+    text-align: center;
+}
+ul,ol {
+    font-size: 40;
+    text-align: left
+}
